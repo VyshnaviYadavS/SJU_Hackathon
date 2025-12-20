@@ -1,0 +1,31 @@
+date,description,amount,category
+2025-01-01,Zomato Order,450,Food
+2025-01-02,Uber Ride,180,Travel
+2025-01-03,Netflix Subscription,199,Subscription
+2025-01-04,Electricity Bill,1250,Bills
+2025-01-05,Amazon Shopping,2300,Shopping
+2025-01-06,Spotify Subscription,119,Subscription
+2025-01-07,Swiggy Order,520,Food
+2025-01-08,Metro Card Recharge,300,Travel
+2025-01-10,Mobile Recharge,299,Bills
+2025-01-12,Flipkart Purchase,1899,Shopping
+2025-02-01,Zomato Order,480,Food
+2025-02-02,Uber Ride,210,Travel
+2025-02-03,Netflix Subscription,199,Subscription
+2025-02-04,Electricity Bill,1320,Bills
+2025-02-05,Amazon Shopping,1450,Shopping
+2025-02-06,Spotify Subscription,119,Subscription
+2025-02-07,Swiggy Order,610,Food
+2025-02-08,Metro Card Recharge,300,Travel
+2025-02-10,Mobile Recharge,299,Bills
+2025-02-12,Flipkart Purchase,2499,Shopping
+2025-03-01,Zomato Order,510,Food
+2025-03-02,Uber Ride,195,Travel
+2025-03-03,Netflix Subscription,199,Subscription
+2025-03-04,Electricity Bill,1285,Bills
+2025-03-05,Amazon Shopping,3200,Shopping
+2025-03-06,Spotify Subscription,119,Subscription
+2025-03-07,Swiggy Order,580,Food
+2025-03-08,Metro Card Recharge,300,Travel
+2025-03-10,Mobile Recharge,299,Bills
+2025-03-12,Flipkart Purchase,1999,Shopping
